@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070411494890",
+    "project_id": "ray-project-1a891",
+    "storage_bucket": "ray-project-1a891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070411494890:android:4531e537abca156f51ae93",
+        "android_client_info": {
+          "package_name": "com.example.raissangarambe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070411494890-kahrcol46j8atdrc6jkhndcgl7j83fbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmlMHQ9rT3xS-_VWllhMAbLZ-hIcphBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070411494890-kahrcol46j8atdrc6jkhndcgl7j83fbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
